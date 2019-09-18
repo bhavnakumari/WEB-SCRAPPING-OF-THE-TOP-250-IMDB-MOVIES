@@ -3,6 +3,6 @@ This is the web scrapping of the top 250 imdb rating movies.If you want this thi
 # Language used:
 Python
 # Libraries Used:
-Pandas
-Beautiful Soup
-Requests
+1.Pandas
+2.Beautiful Soup
+3.Requests
